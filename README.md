@@ -11,45 +11,46 @@ root -l examples/particle_extract.C'("/home/kousik/Madgraph/MG5_aMC_v3_1_1/zz_jj
 # QUARKS
 | Quark | ID |
 |-------|----|
-| \(d\) | 1  |
-| \(u\) | 2  |
-| \(s\) | 3  |
-| \(c\) | 4  |
-| \(b\) | 5  |
-| \(t\) | 6  |
-| \(b^{\prime}\) | 7 |
-| \(t^{\prime}\) | 8 |
+| <code>d</code> | 1  |
+| <code>u</code> | 2  |
+| <code>s</code> | 3  |
+| <code>c</code> | 4  |
+| <code>b</code> | 5  |
+| <code>t</code> | 6  |
+| <code>b'</code> | 7  |
+| <code>t'</code> | 8  |
 
 # LEPTONS
 | Lepton | ID |
 |--------|----|
-| \(e^{-}\) | 11 |
-| \(\nu_e\) | 12 |
-| \(\mu^{-}\) | 13 |
-| \(\nu_\mu\) | 14 |
-| \(\tau^{-}\) | 15 |
-| \(\nu_\tau\) | 16 |
-| \(\tau^{\prime-}\) | 17 |
-| \(\nu_{\tau^{\prime}}\) | 18 |
+| <code>e<sup>-</sup></code> | 11 |
+| <code>&nu;<sub>e</sub></code> | 12 |
+| <code>&mu;<sup>-</sup></code> | 13 |
+| <code>&nu;<sub>&mu;</sub></code> | 14 |
+| <code>&tau;<sup>-</sup></code> | 15 |
+| <code>&nu;<sub>&tau;</sub></code> | 16 |
+| <code>&tau;'<sup>-</sup></code> | 17 |
+| <code>&nu;<sub>&tau;'</sub></code> | 18 |
 
 # EXCITED PARTICLES
-- \(d^* 4000001\)
-- \(u^* 4000002\)
-- \(e^* 4000011\)
-- \(\nu_e^* 4000012\)
+- <code>d^* 4000001</code>
+- <code>u^* 4000002</code>
+- <code>e^* 4000011</code>
+- <code>&nu;<sub>e</sub>^* 4000012</code>
 
 # GAUGE AND HIGGS BOSONS
 | Boson | ID |
 |-------|----|
-| \(g\) | (9) 21 |
-| \(\gamma\) | 22 |
-| \(Z^0\) | 23 |
-| \(W^{+}\) | 24 |
-| \(h^0 / H_1^0\) | 25 |
-| \(Z^{\prime} / Z_2^0\) | 32 |
-| \(Z^{\prime \prime} / Z_3^0\) | 33 |
-| \(W^{\prime} / W_2^{+}\) | 34 |
-| \(H^0 / H_2^0\) | 35 |
-| \(A^0 / H_3^0\) | 36 |
-| \(H^{+}\) | 37 |
+| <code>g</code> | (9) 21 |
+| <code>&gamma;</code> | 22 |
+| <code>Z<sup>0</sup></code> | 23 |
+| <code>W<sup>+</sup></code> | 24 |
+| <code>h<sup>0</sup> / H<sub>1</sub><sup>0</sup></code> | 25 |
+| <code>Z' / Z<sub>2</sub><sup>0</sup></code> | 32 |
+| <code>Z'' / Z<sub>3</sub><sup>0</sup></code> | 33 |
+| <code>W' / W<sub>2</sub><sup>+</sup></code> | 34 |
+| <code>H<sup>0</sup> / H<sub>2</sub><sup>0</sup></code> | 35 |
+| <code>A<sup>0</sup> / H<sub>3</sub><sup>0</sup></code> | 36 |
+| <code>H<sup>+</sup></code> | 37 |
+
 
