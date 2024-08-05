@@ -53,6 +53,9 @@ root -l examples/particle_extract.C'("/home/kousik/Madgraph/MG5_aMC_v3_1_1/zz_jj
 This will give output of Event_Number,Particle_No,PID,Charge,PT 
 The actul particle can be identified as with the help of PID number above <br/> 
 Next step is to clean the data such that it will be having the data of your interest. For the purpose we are considering the event generation of PP > ZH , ( Z > l+ l- ) , ( H > b b~) <br/>
-For Each Events the the PID number of our interest in this case is (11,-11)-electron:positron , (13,-13)-muon:antimuon , (5,-5)-b-quarks
+For Each Events the the PID number of our interest in this case is (11,-11)-electron:positron , (13,-13)-muon:antimuon , (5,-5)-b-quarks.
+We will try to plot Pt(l+) plot first that means we need to filter out event data that having PID Number 11,13 .
+For Filtering and Cleaning data follow the script <br/>
+data_cleaning.ipynb
 
 --------------------------------------------------------------------
