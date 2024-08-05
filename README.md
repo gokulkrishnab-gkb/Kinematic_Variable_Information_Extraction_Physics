@@ -32,11 +32,6 @@ root -l examples/particle_extract.C'("/home/kousik/Madgraph/MG5_aMC_v3_1_1/zz_jj
 | <code>&tau;'<sup>-</sup></code> | 17 |
 | <code>&nu;<sub>&tau;'</sub></code> | 18 |
 
-# EXCITED PARTICLES
-- <code>d^* 4000001</code>
-- <code>u^* 4000002</code>
-- <code>e^* 4000011</code>
-- <code>&nu;<sub>e</sub>^* 4000012</code>
 
 # GAUGE AND HIGGS BOSONS
 | Boson | ID |
