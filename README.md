@@ -48,4 +48,6 @@ root -l examples/particle_extract.C'("/home/kousik/Madgraph/MG5_aMC_v3_1_1/zz_jj
 | <code>A<sup>0</sup> / H<sub>3</sub><sup>0</sup></code> | 36 |
 | <code>H<sup>+</sup></code> | 37 |
 
-
+-------------------------------------------------------
+This will give output of Event_Number,Particle_No,PID,Charge,PT 
+The actul particle can be identified as with the help of PID number above
