@@ -4,6 +4,7 @@ Development Stage
 --------------------------------------------------------
 
 The Script is to extract kinematic variable information of interest event by event and save it to a csv file.
+
 --------------------------------------------------------
 The File should be saved inside the examples folder in the Delphes and the user should come back to Delphes folder location in terminal before running the script. <br/> 
 To run the script follow: <br/> 
@@ -50,4 +51,8 @@ root -l examples/particle_extract.C'("/home/kousik/Madgraph/MG5_aMC_v3_1_1/zz_jj
 
 -------------------------------------------------------
 This will give output of Event_Number,Particle_No,PID,Charge,PT 
-The actul particle can be identified as with the help of PID number above
+The actul particle can be identified as with the help of PID number above <br/> 
+Next step is to clean the data such that it will be having the data of your interest. For the purpose we are considering the event generation of PP > ZH , ( Z > l+ l- ) , ( H > b b~) <br/>
+For Each Events the the PID number of our interest in this case is (11,-11)-electron:positron , (13,-13)-muon:antimuon , (5,-5)-b-quarks
+
+--------------------------------------------------------------------
